@@ -1,0 +1,34 @@
+# Vivado outputs and local projects
+/build/
+/.Xil/
+/NA/
+*.bit
+*.hwh
+*.xsa
+*.dcp
+*.xpr
+*.jou
+*.log
+*.str
+
+# Python and editor state
+__pycache__/
+*.py[cod]
+/.venv/
+/.pytest_cache/
+/.ipynb_checkpoints/
+/.idea/
+/.vscode/
+
+# Local credentials, agent settings, and media
+/.agents/
+/.aws/
+/.codex/
+.env
+.env.*
+*.mid
+*.midi
+*.wav
+*.flac
+*.mp3
+*.m4a
